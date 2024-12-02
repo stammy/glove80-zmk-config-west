@@ -7,6 +7,6 @@
 
 include:
   - board: glove80_lh
-    shield: settings_reset
+    # shield: settings_reset
   - board: glove80_rh
-    shield: settings_reset
+    # shield: settings_reset
